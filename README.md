@@ -10,7 +10,7 @@ npm run dev
 
 ## Funcionamiento en Vue
 ### Se abre proyecto en vue nodo_1_vue y se ejecuta el proyecto con el siguiente comando 
--Si el codigo es correcto mostrara en consola el id y en el template de vue el id propio generado
+-Si la conexion entre ambos nodos es exitosa mostrara en consola del navegador un mensaje de bienvenida
 ~~~
 npm run dev -- --host
 ~~~
@@ -21,19 +21,12 @@ npm run dev -- --host
 ~~~
 npm run dev -- --host
 ~~~
--En el segundo nodo conectado aparecera igual que el primero pero ejecutando en otro puerto
+-En el segundo nodo conectado aparecera igual que el primero pero ejecutando en otro puerto coloca nombre en el primer y segundo nombre
 
 ![img-2](https://user-images.githubusercontent.com/33810066/225769894-591e2f3c-d9ef-4907-b3ca-8723cf219486.png)
 
--Para conectarlos entre si debe proporcionar el id que se genera en la vista del template resaltado en rojo
+## Conexin establecida 
 
-![img-4](https://user-images.githubusercontent.com/33810066/225122940-94e1781d-5d61-4847-abf5-f99178573926.png)
+-cuando la conexion se alla establecido podremos chatiar entre nodos de la siguiente manera
 
--Si la conexion entre ambos nodos es exitosa mostrara en consola del navegador el siguiente mensaje y en el input podras escribir mensajes entre los dos nodos
-
-![img-5](https://user-images.githubusercontent.com/33810066/225123968-42c52171-d368-4bb5-9d85-c667b71cd821.png)
-
--Mensajes entre nodos se veria de esta manera dialogo entre nodo 1 y nodo 2 no tiene ningun tipo de diseño html y css  esta en su version mas basica.
-
-![img-8](https://user-images.githubusercontent.com/33810066/225126095-ad2b90ab-064d-4965-a5ec-f8416d3f135a.png)
-
+![img-3](https://user-images.githubusercontent.com/33810066/225770500-3890c9d8-891b-4926-82e5-70a4f8ac0964.png)
