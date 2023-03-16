@@ -1,0 +1,44 @@
+# Dependencias instaladas con NPM
+/node_modules
+
+# Archivos y carpetas generados durante la ejecución de Node.js
+/.pnp
+/.pnp.js
+/build
+/coverage
+/lib-cov
+/log
+/out
+/test-result.xml
+/yarn-error.log
+/coverage/
+
+# Archivos de configuración
+/.env
+/.env.local
+/.env.*.local
+/*.log
+/*.pid
+/*.seed
+/*.sqlite
+/*.sqlite3
+/*.swp
+/*.lock
+/*.out
+/*.pid
+/*.log.*
+/*.log
+/*.error
+/*.sock
+/*.info
+/*.debug
+/coverage
+
+# Archivos y carpetas para desarrolladores
+/.cache
+/.idea
+/.vscode
+/.yarn/cache
+/.yarn/unplugged
+/.yarn/build-state.yml
+/yarn.lock
